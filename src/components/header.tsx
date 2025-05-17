@@ -46,7 +46,7 @@ export default function Navbar() {
             whileTap={{ scale: 0.95 }}
           >
             <Link
-              href={`/${item.toLowerCase()}`}
+              href="/"
               className="text-white hover:text-gray-300 transition-colors"
             >
               {item}
