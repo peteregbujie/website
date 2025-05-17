@@ -67,7 +67,7 @@ export default function AnimatedBanner() {
             className="max-w-[700px] mx-auto"
           >
             <p className="text-lg md:text-xl leading-relaxed text-gray-700 dark:text-gray-200">
-              I'm passionate about transforming ideas into impactful digital
+              I am passionate about transforming ideas into impactful digital
               experiences. With expertise in
               <span className="font-medium text-blue-700 dark:text-blue-300">
                 {" "}
